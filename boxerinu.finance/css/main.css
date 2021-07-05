@@ -417,7 +417,7 @@ a{
 }
 .roadmap .roadmap-item .right ul h3{
     font-size: 32px;
-    color: #ffba93;
+    color: #1dffff;
     margin-bottom: 2rem;
 }
 .roadmap .roadmap-item .right ul li{
@@ -557,7 +557,7 @@ order: 1;
     text-align: center;
 }
 #howToBuy .items .right h3 span{
-    color: #ffba93;
+    color: #1dffff;
 }
 #howToBuy .items .right img{
     margin-top: 2rem;
